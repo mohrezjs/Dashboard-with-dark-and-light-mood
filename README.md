@@ -1,4 +1,4 @@
-# social-media
+# social-media-dashboard
 
 ## Project setup
 ```
