@@ -20,7 +20,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 > What does this program do?:thinking:
 
-It is a social media dashboard written using technologies like Vue js and Tailwind CSS. One of the features of this single-screen program is having a dark mode button and a light mode button. This program is a challenge from the  [ّّFrontend Mentor](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H) website to practice and improve skills .
+It is a social media dashboard written using technologies like Vue js and Tailwind CSS. One of the features of this single-screen program is having a dark mode button and a light mode button. This program is a challenge from the  [Frontend Mentor](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H) website to practice and improve skills.
+
 I hope you enjoy it!! :sunglasses:
 
 ## Pictures of the project environment
